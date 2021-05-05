@@ -1,0 +1,26 @@
+﻿/*Make sure your ID's are unique*/
+
+@import url(Second.css);
+
+
+html, body, div, span, a, 
+
+
+body #main button img #Picture2 .PictureClass {
+    position : center;
+    width: auto;
+    height: 1024px;
+}
+
+body div.a {
+    background-color: rebeccapurple;
+    height : 30px;
+    width : 300px;
+    
+}
+body #Picture1 {
+    align-self : start;
+    height: 2048px;
+    width: 2048px;
+    resize: none;
+}
