@@ -8,8 +8,9 @@ html, body, div, span, a,
 
 body #main button img #Picture2 .PictureClass {
     position : center;
-    width: auto;
+    width: 100%;
     height: 1024px;
+    border-radius: 1px;
 }
 
 body div.a {
@@ -19,7 +20,7 @@ body div.a {
     
 }
 body #Picture1 {
-    align-self : start;
+    position : center;
     height: 2048px;
     width: 2048px;
     resize: none;
